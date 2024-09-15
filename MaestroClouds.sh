@@ -12,12 +12,12 @@
 #             performance via fio. The script is designed to not require any dependencies
 #             - either compiled or installed - nor admin privileges to run.
 
-YABS_VERSION="v2024-06-09"
+Maestro_CLOUDS="v2024-06-09"
 
 echo -e '# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #'
 echo -e '#              Yet-Another-Bench-Script              #'
-echo -e '#                     '$YABS_VERSION'                    #'
-echo -e '# https://github.com/masonr/yet-another-bench-script #'
+echo -e '#              '$MAESTROCLOUDS_VERSION'              #'
+echo -e '#     @iMoon404 | Maestro Clouds | #MOONSUKAKAMU     #'
 echo -e '# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #'
 
 echo -e
